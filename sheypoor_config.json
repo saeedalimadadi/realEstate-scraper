@@ -1,0 +1,52 @@
+{
+    "base_url": "https://divar.ir/s/{city}/{mahale}/{category}/{melk}",
+    "fields": ["استان", "شهر", "محله", "دسته بندی", "نوع ملک"],
+    "data": {
+      "provinces": [
+      { "name": "آذربایجان شرقی", "value": "" },
+      { "name": "آذربایجان غربی", "value": "" },
+      { "name": "اردبیل", "value": "" },
+      { "name": "اصفهان", "value": "" },
+      { "name": "البرز", "value": "" },
+      { "name": "ایلام", "value": "" },
+      { "name": "بوشهر", "value": "" },
+      { "name": "تهران", "value": "" },
+      { "name": "چهارمحال و بختیاری", "value": "" },
+      { "name": "خراسان جنوبی", "value": "" },
+      { "name": "خراسان رضوی", "value": "" },
+      { "name": "خراسان شمالی", "value": "" },
+      { "name": "خوزستان", "value": "" },
+      { "name": "زنجان", "value": "" },
+      { "name": "سمنان", "value": "" },
+      { "name": "سیستان و بلوچستان", "value": "" },
+      { "name": "فارس", "value": "" },
+      { "name": "قزوین", "value": "" },
+      { "name": "قم", "value": "" },
+      { "name": "کردستان", "value": "" },
+      { "name": "کرمان", "value": "" },
+      { "name": "کرمانشاه", "value": "" },
+      { "name": "کهگلویه و بویراحمد", "value": "" },
+      { "name": "گلستان", "value": "" },
+      { "name": "گیلان", "value": "" },
+      { "name": "لرستان", "value": "" },
+      { "name": "مازندران", "value": "" },
+      { "name": "مرکزی", "value": "" },
+      { "name": "هرمزگان", "value": "" },
+      { "name": "همدان", "value": "" },
+      { "name": "یزد", "value": "" }
+      ],
+      "cities": {
+        "tehran": [
+          { "name": "تهران", "value": "tehran" },
+          { "name": "شهریار", "value": "shahriar" }
+        ],
+        "qom": [
+          { "name": "قم", "value": "qom" }
+        ]
+      },
+      "categories": [
+        { "name": "املاک", "value": "real-estate" },
+        { "name": "وسایل نقلیه", "value": "vehicles" }
+      ]
+    }
+  }
